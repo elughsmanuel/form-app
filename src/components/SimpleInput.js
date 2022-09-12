@@ -94,3 +94,5 @@ const SimpleInput = (props) => {
 };
 
 export default SimpleInput;
+
+// basic: without custom hooks
